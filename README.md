@@ -4,10 +4,10 @@
 │  bdelamatre@github:~$ whoami                              │
 │                                                           │
 │  Name  : Byron DeLaMatre                                  │
-│  Role  : Full-Stack Developer                             │
-│          Director of Operations @ Elevato                 │
+│  Role  : Senior Software Engineer                         │
+│          @ Delta Systems                                  │
 │  Where : Freeport, ME                                     │
-│  Web   : delamatre.com                                    │
+│  Web   : www.delamatre.com                                │
 │                                                           │
 │  bdelamatre@github:~$ cat about.txt                       │
 │                                                           │
@@ -29,6 +29,6 @@
 
 <div align="center">
 
-[delamatre.com](https://www.delamatre.com) &nbsp;·&nbsp; [byron@delamatre.com](mailto:byron@delamatre.com)
+[www.delamatre.com](https://www.delamatre.com) &nbsp;·&nbsp; [byron@delamatre.com](mailto:byron@delamatre.com)
 
 </div>
