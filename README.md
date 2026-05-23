@@ -11,14 +11,9 @@
 │                                                           │
 │  bdelamatre@github:~$ cat about.txt                       │
 │                                                           │
-│  14+ years building web applications and taming           │
-│  infrastructure. I write about Laravel, AWS, and          │
-│  the occasional software-defined greenhouse.              │
-│                                                           │
-│  bdelamatre@github:~$ ls stack/                           │
-│                                                           │
-│  php  laravel  mysql  aws  linux  tailwind  alpinejs      │
-│  arduino  puppet  git  docker                             │
+│  20+ years building web applications and taming           │
+│  infrastructure. I reason about Laravel, AWS, and         │
+│  agentic software.                                        │
 │                                                           │
 │  bdelamatre@github:~$ _                                   │
 │                                                           │
