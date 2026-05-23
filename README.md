@@ -1,16 +1,29 @@
-## Hi there 👋
+```
+╭───────────────────────────────────────────────────────────╮
+│                                                           │
+│  bdelamatre@github:~$ whoami                              │
+│                                                           │
+│  Name  : Byron DeLaMatre                                  │
+│  Role  : Senior Software Engineer                         │
+│          @ Delta Systems                                  │
+│  Where : Freeport, ME                                     │
+│  Web   : www.delamatre.com                                │
+│                                                           │
+│  bdelamatre@github:~$ cat about.txt                       │
+│                                                           │
+│  20+ years building web applications and taming           │
+│  infrastructure. I reason about Laravel, AWS, and         │
+│  agentic software.                                        │
+│                                                           │
+│  bdelamatre@github:~$ _                                   │
+│                                                           │
+╰───────────────────────────────────────────────────────────╯
+```
 
-<!--
-**bdelamatre/bdelamatre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[www.delamatre.com](https://www.delamatre.com) &nbsp;·&nbsp; [byron@delamatre.com](mailto:byron@delamatre.com)
+
+</div>
