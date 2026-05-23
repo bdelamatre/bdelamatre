@@ -1,4 +1,4 @@
-```
+<pre>
 ╭──────────────────────────────────────────────────────────────────────────────────╮
 │                                                                                  │
 │    __        __ _____ _      ____  ___  __  __ _____                            │
@@ -7,14 +7,15 @@
 │      \ V  V /  | |___| |___| |___| |_| | |  | | |___                           │
 │       \_/\_/   |_____|_____|\____|\___/|_|  |_|_____|                           │
 │                                                                                  │
-│  Last login: Tue May 20 08:42:17 2025 from 10.0.0.128                           │
+│  Last login: Tue May 20 08:42:17 2025 from 10.0.0.128                            │
 │                                                                                  │
 │  bdelamatre@github:~$ whoami                                                     │
 │                                                                                  │
 │  Name  : Byron DeLaMatre                                                         │
 │  Role  : Senior Software Engineer @ Delta Systems                                │
 │  Where : Freeport, ME                                                            │
-│  Web   : www.delamatre.com                                                       │
+│  Web   : <a href="https://www.delamatre.com">www.delamatre.com</a>                                                      │
+│  Mail  : <a href="mailto:byron@delamatre.com">byron@delamatre.com</a>                                                    │
 │                                                                                  │
 │  bdelamatre@github:~$ cat about.txt                                              │
 │                                                                                  │
@@ -24,12 +25,4 @@
 │  bdelamatre@github:~$ _                                                          │
 │                                                                                  │
 ╰──────────────────────────────────────────────────────────────────────────────────╯
-```
-
----
-
-<div align="center">
-
-[www.delamatre.com](https://www.delamatre.com) &nbsp;·&nbsp; [byron@delamatre.com](mailto:byron@delamatre.com)
-
-</div>
+</pre>
