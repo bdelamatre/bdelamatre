@@ -7,7 +7,7 @@
 │    | |_) |  | |  |  _ < | |_| || |\  |                                          │
 │    |____/   |_|  |_| \_\ \___/ |_| \_|                                          │
 │                                                                                  │
-│  Last login: Tue May 20 08:42:17 2025 from 192.168.1.1                           │
+│  Welcome.                                                                        │
 │                                                                                  │
 │  bdelamatre@github:~$ whoami                                                     │
 │                                                                                  │
