@@ -1,16 +1,34 @@
-## Hi there 👋
+```
+╭───────────────────────────────────────────────────────────╮
+│                                                           │
+│  bdelamatre@github:~$ whoami                              │
+│                                                           │
+│  Name  : Byron DeLaMatre                                  │
+│  Role  : Full-Stack Developer                             │
+│          Director of Operations @ Elevato                 │
+│  Where : Freeport, ME                                     │
+│  Web   : delamatre.com                                    │
+│                                                           │
+│  bdelamatre@github:~$ cat about.txt                       │
+│                                                           │
+│  14+ years building web applications and taming           │
+│  infrastructure. I write about Laravel, AWS, and          │
+│  the occasional software-defined greenhouse.              │
+│                                                           │
+│  bdelamatre@github:~$ ls stack/                           │
+│                                                           │
+│  php  laravel  mysql  aws  linux  tailwind  alpinejs      │
+│  arduino  puppet  git  docker                             │
+│                                                           │
+│  bdelamatre@github:~$ _                                   │
+│                                                           │
+╰───────────────────────────────────────────────────────────╯
+```
 
-<!--
-**bdelamatre/bdelamatre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[delamatre.com](https://www.delamatre.com) &nbsp;·&nbsp; [byron@delamatre.com](mailto:byron@delamatre.com)
+
+</div>
